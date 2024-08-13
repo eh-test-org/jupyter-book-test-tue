@@ -1,6 +1,8 @@
 # demo test book TU/e
 
-Test book to demonstrate deploying a Jupyter Book on TU/e GitHub Enterprise Account
+Test book to demonstrate deploying a Jupyter Book on TU/e GitHub Enterprise Account.
+
+Small change for a second commit.
 
 ## Usage
 
