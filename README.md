@@ -4,6 +4,8 @@ Test book to demonstrate deploying a Jupyter Book on TU/e GitHub Enterprise Acco
 
 Small change for a second commit.
 
+Another small change for third commit.
+
 ## Usage
 
 ### Building the book
