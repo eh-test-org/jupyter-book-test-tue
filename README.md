@@ -6,6 +6,8 @@ Small change for a second commit.
 
 Another small change for third commit.
 
+One more change with pages enabled.
+
 ## Usage
 
 ### Building the book
